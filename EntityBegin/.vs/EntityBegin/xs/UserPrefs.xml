@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{B7A3BC0E-E962-43C1-A4DC-FADF120C3648}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.EntityBegin PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="EntityBegin/Program.cs">
+    <Files>
+      <File FileName="EntityBegin/Program.cs" Line="11" Column="1" />
+      <File FileName="EntityBegin/Models/Brand.cs" Line="18" Column="6" />
+      <File FileName="EntityBegin/DAL/AppDbContext.cs" Line="17" Column="1" />
+      <File FileName="EntityBegin/Migrations/20240227045312_GroupTableCreated.cs" Line="1" Column="1" />
+      <File FileName="EntityBegin/Migrations/20240227045312_GroupTableCreated.Designer.cs" Line="12" Column="2" />
+      <File FileName="EntityBegin/Migrations/AppDbContextModelSnapshot.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EntityBegin" expanded="True">
+            <Node name="EntityBegin">
+              <Node name="DAL" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
