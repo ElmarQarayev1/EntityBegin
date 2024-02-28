@@ -11,6 +11,8 @@ namespace EntityBegin.Models
 
 		public int BrandCount { get; set; }
 
+		public List<Product> Products { get;set; }
+
         public override string ToString()
         {
 			return $"{Id}-{Name}-{CreatorName}-{BrandCount}";
