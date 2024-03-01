@@ -18,8 +18,8 @@ do
     Console.WriteLine("7.Get All Brands");
     Console.WriteLine("8.Get Brand by id");
     opt = Console.ReadLine();
-    AppDbContext context = new AppDbContext();
 
+    AppDbContext context = new AppDbContext();
     switch (opt)
     {
         case "1":

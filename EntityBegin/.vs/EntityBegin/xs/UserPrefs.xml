@@ -1,33 +1,41 @@
 ﻿<Properties StartupConfiguration="{B7A3BC0E-E962-43C1-A4DC-FADF120C3648}|Default">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.EntityBegin PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="EntityBegin/Program.cs">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="EntityBegin/Migrations/20240227201428_CreatedProductTable.Designer.cs">
     <Files>
-      <File FileName="EntityBegin/Program.cs" Line="11" Column="1" />
-      <File FileName="EntityBegin/Models/Brand.cs" Line="18" Column="6" />
-      <File FileName="EntityBegin/DAL/AppDbContext.cs" Line="17" Column="1" />
-      <File FileName="EntityBegin/Migrations/20240227045312_GroupTableCreated.cs" Line="1" Column="1" />
-      <File FileName="EntityBegin/Migrations/20240227045312_GroupTableCreated.Designer.cs" Line="12" Column="2" />
-      <File FileName="EntityBegin/Migrations/AppDbContextModelSnapshot.cs" Line="1" Column="1" />
+      <File FileName="EntityBegin/Program.cs" />
+      <File FileName="EntityBegin/DAL/AppDbContext.cs" />
+      <File FileName="EntityBegin/Migrations/20240227045312_GroupTableCreated.cs" />
+      <File FileName="EntityBegin/Migrations/20240227045312_GroupTableCreated.Designer.cs" />
+      <File FileName="EntityBegin/Migrations/AppDbContextModelSnapshot.cs" />
+      <File FileName="EntityBegin/Models/Product.cs" Line="26" Column="1" />
+      <File FileName="EntityBegin/Migrations/20240227103412_AddedBrandCountIntoBrand.cs" />
+      <File FileName="EntityBegin/Migrations/20240227103412_AddedBrandCountIntoBrand.Designer.cs" />
+      <File FileName="EntityBegin/Migrations/20240227201428_CreatedProductTable.cs" />
+      <File FileName="EntityBegin/Migrations/20240227201428_CreatedProductTable.Designer.cs" Line="11" Column="1" />
+      <File FileName="EntityBegin/Models/Brand.cs" Line="25" Column="1" />
+      <File FileName="EntityBegin/Models/Order.cs" Line="13" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="EntityBegin" expanded="True">
             <Node name="EntityBegin">
+              <Node name="Dependencies" expanded="True" />
               <Node name="DAL" expanded="True" />
-              <Node name="Migrations" expanded="True" />
+              <Node name="Migrations" expanded="True">
+                <Node name="20240227201428_CreatedProductTable.Designer.cs" selected="True" />
+              </Node>
               <Node name="Models" expanded="True" />
-              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
